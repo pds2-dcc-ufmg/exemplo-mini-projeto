@@ -86,3 +86,8 @@ $ make documentation
 ```
 
 **Atenção: Criar antes um diretório _./doc/_**
+
+## **Remover arquivos auxiliares**
+```bash
+$ make clean
+```
