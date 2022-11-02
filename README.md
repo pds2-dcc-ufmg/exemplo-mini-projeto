@@ -36,6 +36,18 @@ $ make tests
 $ make run_tests
 ```
 
+## **Relatório de Cobertura**
+
+Para imprimir o relatório simplificado no próprio Terminal, utilizar:
+```bash
+$ make coverage
+```
+
+Para gerar o relatório em HTML, utilizar:
+```bash
+$ make html_coverage
+```
+
 ## **Documentação**
 
 É necessário ter na raiz do projeto um arquivo _Doxyfile_. Um arquivo padrão pode ser gerado pelo comando:
@@ -63,4 +75,8 @@ Para gerar a documentação, utilizar:
 
 ```bash
 $ doxygen Doxyfile
+```
+ou
+```bash
+$ make documentation
 ```
