@@ -1,6 +1,6 @@
 # Mini Projeto
 
-Esse é um exemplo de projeto bem básico que utiliza todas as ferramentas e utilitários vistos ao longo da disciplina.
+Esse é um exemplo de projeto bem básico que utiliza todas as ferramentas e utilitários vistos ao longo da disciplina. Ele pode ser melhorado em diferentes aspectos e portanto não deve ser visto como um guia definitivo a ser seguido.
 
 ## **Ferramentas**
 
