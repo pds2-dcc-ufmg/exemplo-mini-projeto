@@ -18,6 +18,8 @@ Esse projeto utiliza as seguintes linguagem, ferramentas e bibliotecas:
 $ make
 ```
 
+**Atenção: Criar antes um diretório _./build/_**
+
 ## **Execução**
 
 ```bash
@@ -47,6 +49,8 @@ Para gerar o relatório em HTML, utilizar:
 ```bash
 $ make html_coverage
 ```
+
+**Atenção: Criar antes um diretório _./coverage/_**
 
 ## **Documentação**
 
@@ -80,3 +84,5 @@ ou
 ```bash
 $ make documentation
 ```
+
+**Atenção: Criar antes um diretório _./doc/_**
